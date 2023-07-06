@@ -43,24 +43,34 @@ Here are some inputs:
 Work Flow:
 
 Step 1 - Upload Data
+
 Step 2 - Cleaning data
+
 Step 3 - Transform data
+
 Step 4 - Load data
+
 Step 5 - Data Visualization
+
 Step 6 - Data Analysis
+
 Step 7 - Insights
+
 Step 8 - Suggestions
 
 Flow of work
 
 Step 1 - Upload Data
+
 The Dataset used for this analysis was presented by PWC_Switzerland and available at their official website page.
 
 Step 2 - Cleaning data
+
 Data transformation was done in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modelling. The Customer Retention dataset is given by a table named:
 - Customer retention which has 23 columns and 7043 rows of observation.
 
 Column Name	Description
+
 - CustomerID	Represents the unique number of the customer in the dataset.
 - Gender	describes the gender of the customer.
 - Senior Citizen describes if the customer is a senior citizen.
