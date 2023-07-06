@@ -128,3 +128,5 @@ Step 7 - Suggestions
 - Can increase the basic plan from 1 month to 3 or 6 month will be a good decision. this will help customer to be with us for a long tenure.
 - Can provide special offer to the customer are having partner and using phone service can retain 48.59% customers.
 
+
+
