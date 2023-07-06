@@ -3,6 +3,7 @@ PWC-Switzerland-PowerBI-virtual-case
 
 Task 2 : Call Center Trends
 Create a Power BI dashabord for Call Center Manager that reflects all relevent Key Perfromace Indicators (KPIs) and metrics in the dataset.
+
 KPIs: 
 - Overall Customer Satisfaction.
 - Overall calls answered/abandoned.
@@ -20,9 +21,9 @@ The telecom Retention Manager has scheduled a meeting with the engagement partne
 - We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management.
   
 Task 4 - Diversity and inclusion Dashboard
-- # of men
-- # of women
-- # of leavers
+- Number of men
+- Number of women
+- Number of leavers
 - % employees promoted (FY21)
 - % of women promoted
 - % of hires men
