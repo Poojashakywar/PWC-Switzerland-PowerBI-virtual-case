@@ -41,6 +41,7 @@ Here are some inputs:
 - Demographic info about customers – gender, age range, and if they have partners and dependents.
   
 Work Flow:
+
 Step 1 - Upload Data
 Step 2 - Cleaning data
 Step 3 - Transform data
@@ -51,6 +52,7 @@ Step 7 - Insights
 Step 8 - Suggestions
 
 Flow of work
+
 Step 1 - Upload Data
 The Dataset used for this analysis was presented by PWC_Switzerland and available at their official website page.
 
